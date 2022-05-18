@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/external/timezone_dialog/images/indicator_active.png</file>
+        <file>src/external/timezone_dialog/images/timezone_map_big.png</file>
+        <file>src/external/timezone_dialog/images/timezone_map_big@1x.svg</file>
+        <file>src/external/timezone_dialog/images/timezone_map_big@2x.png</file>
+        <file>src/external/timezone_dialog/images/timezone_map_big2.png</file>
+        <file>src/external/timezone_dialog/popup_menu.css</file>
+        <file>icons/dcc_clock_black.svg</file>
+        <file>icons/dcc_clock_white.svg</file>
+        <file>icons/dcc_noun_hour.svg</file>
+        <file>icons/dcc_noun_minute.svg</file>
+        <file>icons/dcc_noun_second.svg</file>
+        <file>icons/deepines.svg</file>
+    </qresource>
+</RCC>
