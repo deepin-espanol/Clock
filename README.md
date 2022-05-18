@@ -1,7 +1,7 @@
 # Clock
 Simple clock application for Deepin. It offers viewing different clocks of the timezones all over the world. You can also add alarms, use the stopwatch or set a timer.
 
-[!Preview](https://raw.githubusercontent.com/deepin-espanol/Clock/master/preview.gif)
+![Preview](https://raw.githubusercontent.com/deepin-espanol/Clock/master/preview.gif)
 
 ## Dependencies
 ```
